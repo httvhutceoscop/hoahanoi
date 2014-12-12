@@ -160,7 +160,7 @@ function optionsframework_options() {
 						"std" => "http://web2feel.com/images/webhostinghub.png",
 						"type" => "text");		
 						
-	$options[] = array( "name" => "Banner 1 Image alt tag",
+	$options[] = array( "name" => "Banner 1 Image alt tag.",
 						"desc" => "Enter your banner alt tag.",
 						"id" => "w2f_alt1",
 						"std" => "Cheap reliable web hosting from WebHostingHub.com",
